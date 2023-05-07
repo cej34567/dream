@@ -1,6 +1,5 @@
-
 import java.util.*;
-public class test {
+public class backjoon2018{
     public static void main(String[] args) throws Exception{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
